@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModTemplate", "ModTemplate.csproj", "{11C09ECE-47C9-4727-BF4E-6D1F9D409A88}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountryForce", "CountryForce.csproj", "{11C09ECE-47C9-4727-BF4E-6D1F9D409A88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,11 @@ Global
 		{11C09ECE-47C9-4727-BF4E-6D1F9D409A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11C09ECE-47C9-4727-BF4E-6D1F9D409A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11C09ECE-47C9-4727-BF4E-6D1F9D409A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4147F99-1214-4519-9F47-D6A818C3C688}
 	EndGlobalSection
 EndGlobal

@@ -1,4 +1,8 @@
 {
     "Default": "默认设置组",
-    "WhatToSay": "模组加载时打印的信息"
+    "WhatToSay": "模组加载时打印的信息",
+    "MainTabTitle": "国家力量",
+    "MainTabDescriptionKey": "国家力量菜单界面",
+    "CountryList": "查看正统王国列表",
+    "CountryListWindow":  "正统列表"
 }

@@ -1,8 +1,8 @@
 {
-    "name": "CHANGEME",
-    "author": "CHANGEME",
-    "version": "1.0.0",
-    "description": "This is a template for a mod",
-    "RepoUrl": "https://github.com/author/name",
+    "name": "CountryForce",
+    "author": "长明火",
+    "version": "0.0.1",
+    "description": "add more function for countries",
+    "RepoUrl": "https://github.com/ZhaoyuZhang101/CountryForce",
     "iconPath": "icon.png"
 }
